@@ -1,0 +1,5 @@
+name: OFPHTSAN
+author: strifel
+version: '1.0'
+
+main: de.strifel.ofphtsan.Ofphtsan
